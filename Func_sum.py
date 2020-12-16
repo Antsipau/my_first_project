@@ -1,4 +1,4 @@
 def sum(a, b):
     c = a + b
-    return c
+    return c/2
 print(sum(3, 4))
